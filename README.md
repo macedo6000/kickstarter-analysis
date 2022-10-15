@@ -4,7 +4,7 @@ Performing analysis on Kickstarter data to uncover trends.
 ## Overview of Project
 
 ### Purpose
-
+The purpose of this analysis is to compare how different campaigns fared in relation to their launch dates and their funding goals using visualizations. The main trends focused on is theater/plays category to determine campaign outcomes: successful, failed, and canceled.
 
 ## Analysis and Challenges
 
