@@ -10,7 +10,7 @@ The purpose of this analysis is to compare how different campaigns fared in rela
 ## Analysis and Challenges
 Prior to analyzing and creating visualizations for the crowdfunding campaign, the data must first be organized, sorted, and analyzed. First, the Outcomes column was color coded to help the individual outcomes stand out. Then, the category/subcategory column was separated and placed in their own column. Also, the unix timestamps were converted to readable format.
 
-Kickstarter_Challenge.xlsx
+[Kickstarter_Challenge.xlsx](https://github.com/macedo6000/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx)
 
 ### Analysis of Outcomes Based on Launch Date
 ![](./Resources/Theater_Outcomes_vs_Launch.png)
