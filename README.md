@@ -1,25 +1,32 @@
 # Kickstart Analysis with Excel
-Performing analysis on Kickstarter data to uncover trends.
+Performing analysis on Kickstarter campaign data using pivot tables and graphs using excel.
 
 ## Overview of Project
 
 ### Purpose
-The purpose of this analysis is to compare how different campaigns fared in relation to their launch dates and funding goals using visualizations. The main category trends will be focused on is theater/plays to determine campaign outcomes: successful, failed, and canceled.
+This analysis was performed to compare how different campaigns fared in relation to their launch dates and funding goals using visualizations. The main category trends focused on theater/plays to determine campaign outcomes: successful, failed, and canceled.
 
-## Analysis and Challenges
-Prior to analyzing and creating visualizations for the crowdfunding campaign, the data must first be organized, sorted, and analyzed. First, the Outcomes column was color coded to help the individual outcomes stand out. Then, the category/subcategory column was separated and placed in their own column. Also, the unix timestamps were converted to readable format.
+### Analysis and Challenges
+The initial Kickstarter campaign data was received in an excel file, where the data was cleaned, organized, and analyzed. Additional spreadsheets and pivot tables/graphs were created to further analyze the data.
 
-[Kickstarter_Challenge.xlsx](https://github.com/macedo6000/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx)
+[Kickstarter Challenge](https://github.com/macedo6000/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx)
 
-### Analysis of Outcomes Based on Launch Date
-![](./Resources/Theater_Outcomes_vs_Launch.png)
+- #### Analysis of Outcomes Based on Launch Date
+    - A pivot table and line graph was created to visualize the theater outcomes based on launch date. Success, failed, and canceled outcomes are represented by lines. 
 
-### Analysis of Outcomes Based on Goals
-![](./Resources/Outcomes_vs_Goals.png)
+        ![](./Resources/table_Theater_Outcomes_vs_Launch.png)
 
-### Challenges and Difficulties Encountered
+    - The "Theater Outcomes Based on Launch Date" line graph shows that February and May have the best results for meeting goals.
 
-## Results
+        ![](./Resources/Theater_Outcomes_vs_Launch.png)
+
+- #### Analysis of Outcomes Based on Goals
+    - The visualized funding goals analysis below shows that funding goals less than $1,000 has an almost 80% success rate.  
+        ![](./Resources/Outcomes_vs_Goals.png)
+
+- #### Challenges and Difficulties Encountered
+
+### Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
