@@ -2,7 +2,6 @@
 Performing analysis on Kickstarter data to uncover trends.
 
 ## Overview of Project
-Louise, an up-and-coming playwright, is starting a crowdfund campaign to help fund her play titled Fever. She needs insight on the dataset provided in order for her play to be a success.
 
 ### Purpose
 The purpose of this analysis is to compare how different campaigns fared in relation to their launch dates and funding goals using visualizations. The main category trends will be focused on is theater/plays to determine campaign outcomes: successful, failed, and canceled.
